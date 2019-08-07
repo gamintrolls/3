@@ -1,7 +1,7 @@
 ---
 title: "Markup: Image Alignment"
 image: 
-  path: /images/so-simple-sample-image-5.jpg
+  path: https://i.imgur.com/xAUr6sY.jpg
   thumbnail: https://i.imgur.com/xAUr6sY.jpg
   caption: "Photo from [WeGraphics](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)"
 categories:
