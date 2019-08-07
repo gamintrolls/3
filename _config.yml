@@ -68,8 +68,6 @@ defaults:
     values:
       layout: post
       share: true
-  
-  # Posts defaults
   - scope:
       path: "_php"
       type: posts
