@@ -68,13 +68,7 @@ defaults:
     values:
       layout: post
       share: true
-  - scope:
-      path: "_php"
-      type: posts
-    values:
-      layout: post
-      share: true
-
+      
 # Site Author
 author:
   name:
